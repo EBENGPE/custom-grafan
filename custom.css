@@ -1,0 +1,34 @@
+body {
+  background-color: #121212 !important;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.navbar {
+  background-color: #001f2e !important;
+}
+
+.panel-title {
+  color: #00ffd0 !important;
+  font-weight: bold;
+}
+
+.login-box {
+  background-color: #1e1e1e !important;
+  border: 1px solid #00ffd0;
+  border-radius: 10px;
+  padding: 30px;
+}
+
+.login-box h3 {
+  color: #00ffd0 !important;
+}
+
+a {
+  color: #00ffd0 !important;
+}
+
+.gf-form-input {
+  background-color: #1e1e1e !important;
+  border-color: #00ffd0 !important;
+  color: #ffffff !important;
+}
